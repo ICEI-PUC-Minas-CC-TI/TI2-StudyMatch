@@ -1,0 +1,19 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas de build (Maven/Gradle)
+target/
+build/
+out/
+
+# Arquivos de IDEs (Eclipse, IntelliJ, VS Code)
+.idea/
+.vscode/
+*.iml
+*.eclipse
+.settings/
+.classpath
+.project
+
+# Arquivos de ambiente e senhas
+.env
